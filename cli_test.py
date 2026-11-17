@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 # W1N4C
 # Load model
-MODEL_PATH = r"D:\NSDK\projects_1\SIgnlanguage\models\hand_gesture_model_main_DrHeHoIcTh.pkl"
+MODEL_PATH = r""
 
 with open(MODEL_PATH, "rb") as f:
     model = pickle.load(f)
