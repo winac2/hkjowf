@@ -9,7 +9,8 @@ import time
 # CONFIGURATION
 # ==========================================
 
-MODEL_PATH = "./hand_gesture_model_main_DrHeHoIcTh.pkl"
+MODEL_PATH = "./hand_gesture_model_main_DrHeHoIcTh.pkl
+"
 
 HAND_MODEL_PATH = "./hand_landmarker.task"
 
