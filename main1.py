@@ -9,9 +9,9 @@ import time
 # CONFIGURATION
 # ==========================================
 
-MODEL_PATH = "./models/model.pkl"
+MODEL_PATH = "./hand_gesture_model_main_DrHeHoIcTh.pkl"
 
-HAND_MODEL_PATH = "./models/hand_landmarker.task"
+HAND_MODEL_PATH = "./hand_landmarker.task"
 
 CAMERA_INDEX = 0
 
