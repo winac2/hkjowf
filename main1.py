@@ -9,6 +9,8 @@ import time
 # CONFIGURATION
 # ==========================================
 
+#dùng cho version mediapipe từ .31 trở lên 
+
 MODEL_PATH = "./hand_gesture_model_main_DrHeHoIcTh.pkl
 "
 
