@@ -9,6 +9,9 @@ import time
 # CONFIGURATION
 # ==========================================
 
+
+# mediapipe cũ dùng .solutions từ .30 trở xuống
+
 MODEL_PATH = "./hand_gesture_model_main_DrHeHoIcTh.pkl"
 
 CAMERA_INDEX = 0
